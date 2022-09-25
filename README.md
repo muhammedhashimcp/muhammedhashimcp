@@ -2,11 +2,11 @@
  
 <!-- ![Banner](https://raw.githubusercontent.com/sreeshilck/sreeshilck/main/banner.jpg) -->
 
-<h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Hashim CP</h1>
 <h3 align="center">A Passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasMuhammedAK&label=Profile%20views&color=0e75b6&style=flat" alt="AnasMuhammedAK" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasMuhammedAK&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Hashim CP" /> </p>
 
 - 🔭 I’m currently working on **Social Media with blog app**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN stack and related technologies**
 
-- 📫 How to reach me **anasabdulkareem100@gmail.com**
+- 📫 How to reach me **cpmohdhashim@gmail.com**
 
 ## ❤️ Let's get connected:
 <br>
