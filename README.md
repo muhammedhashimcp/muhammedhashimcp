@@ -16,7 +16,7 @@
 
 
 <h3 align="left">About me:</h3>
-<p align="left" color="green">
+<p align="left" >
 </p>
 
 - 🔭 I’m currently working on [**procoder blog app**](https://procoderblogapp.netlify.app/)
