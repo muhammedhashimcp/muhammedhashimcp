@@ -7,20 +7,27 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasMuhammedAK&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Hashim CP" /> </p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Social Media with blog app**procoder blog app**
 
-- https://github.com/muhammedhashimcp/Procoder-Blog-App-Backend-MERN.git 
 
--  https://github.com/muhammedhashimcp/Procoder-Blog-App-Frontend-MERN.git
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+- 🔭 I’m currently working on [**procoder blog app**](https://procoderblogapp.netlify.app/)
 
 - 🌱 I’m currently learning **Typescript,Next.js And React Testing**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
-- 👨‍💻 All of my projects are available at https://muhammedhashimportfolio.netlify.app
+- 👨‍💻 All of my projects are available at my [**portfolio**](https://muhammedhashimportfolio.netlify.app/)
  
-- 📝 I regularly write articles on [procoder blog app](procoder blog app)
+- 📝 I regularly write articles on [**procoder blog app**](https://procoderblogapp.netlify.app/)
 
 - 📫 How to reach me **cpmohdhashim@gmail.com**
 
