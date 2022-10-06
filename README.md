@@ -18,7 +18,25 @@
 
 ## ❤️ Let's get connected:
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedhashimcp&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedhashimcp" /> </p>
 
+- 🔭 I’m currently working on [procoder blog app](https://github.com/muhammedhashimcp/Procoder-Blog-App-Backend-MERN.git and https://github.com/muhammedhashimcp/Procoder-Blog-App-Frontend-MERN.git)
+
+- 🌱 I’m currently learning **Next js And React Testing**
+
+- 👨‍💻 All of my projects are available at [portflolio](portflolio)
+
+- 📝 I regularly write articles on [procoder blog app](procoder blog app)
+
+- 💬 Ask me about **Web development With MERN**
+
+- 📫 How to reach me **cpmohdhashim@gmail.com**
+
+- 📄 Know about my experiences [resume](resume)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <p>
 <a href="https://twitter.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/muhammed-anas-ak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/> <a href="https://instagram.com" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
