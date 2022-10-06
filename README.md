@@ -6,8 +6,7 @@
 <h3 align="center">A Passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasMuhammedAK&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Hashim CP" /> </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedhashimcp&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Hashim CP" /> </p>
 
 
 
@@ -15,8 +14,9 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="left">About me:</h3>
+<p align="left" color="green">
 </p>
 
 - 🔭 I’m currently working on [**procoder blog app**](https://procoderblogapp.netlify.app/)
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **cpmohdhashim@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [**resume**](resume)
 
 
 
