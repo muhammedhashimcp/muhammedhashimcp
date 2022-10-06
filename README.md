@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MERN stack and related technologies**
 
-- 👨‍💻 All of my projects are available at [portflolio](portflolio)
+- 👨‍💻 All of my projects are available at https://muhammedhashimportfolio.netlify.app
  
 - 📝 I regularly write articles on [procoder blog app](procoder blog app)
 
