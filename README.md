@@ -38,14 +38,18 @@
 
 - 📫 How to reach me **cpmohdhashim@gmail.com**
 
-- 📄 Know about my experiences [**resume**](resume)
+- 📄 Know about my experiences [**resume**](https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/resume%2Fmuhammedhashimcp-resume.pdf?alt=media&token=8b3dd284-8a7f-4c39-9d12-142503182aea)
 
 
 
 ## ❤️ Let's get connected:
 
 <p>
-<a href="https://twitter.com/cpmohdhashim" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/muhammed-hashim-9aa2a9143/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/> <a href="https://instagram.com" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+
+&nbsp;&nbsp; <a href="https://www.linkedin.com/in/muhammed-hashim-cp-9aa2a9143/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" /></a>
+&nbsp;&nbsp; <a href="https://twitter.com/cpmohdhashim" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40" /></a>
+&nbsp;&nbsp; <a href="https://www.facebook.com/muhammed.hashim.1441" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="mongodb" width="40" height="40" /></a>
+
 </p>
 
 ## ❤️ Tech Stacks and Tools:
@@ -62,7 +66,7 @@
 |Npm Packages|&nbsp;&nbsp; <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> &nbsp;&nbsp; <a href="https://www.npm.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM" width="40" height="40" /> </a>|
 |OS|&nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /> </a> &nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="40" height="40" /> </a> &nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="40" height="40" /> </a> &nbsp;&nbsp; <a href="mint" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mint/mint-icon.svg" alt="linux-mint" width="40" height="40" /> </a>|
 |Hobby|&nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40" /> </a> &nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="arduino" width="40" height="40" /> </a>|
-|Testing|&nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>&nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="arduino" width="40" height="40" /> </a>|
+|React Testing|&nbsp;&nbsp; <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>|
 	
 	
 
