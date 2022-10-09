@@ -82,6 +82,5 @@
 <p align="center" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedhashimcp&" alt="muhammedhashimcp" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedhashimcp&show_icons=true&locale=en&layout=compact" alt="muhammedhashimcp" /></p>
 
 <br>
-<hr>
-<hr>
+
 <p align="center" ><img align="center" src="https://firebasestorage.googleapis.com/v0/b/muhammed-hashim-portfolio.appspot.com/o/personal%2Ffooter.png?alt=media&token=d84f2954-563e-4017-822c-f9d1d358cab3" alt="muhammedhashimcp" /></p>
